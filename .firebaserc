@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "chatgpt-notion",
+    "prod": "chatgpt-notion"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

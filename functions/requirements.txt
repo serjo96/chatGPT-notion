@@ -1,0 +1,8 @@
+flask
+flask-restplus
+flask-restx
+firebase-admin
+firebase-functions
+python-dotenv
+requests
+werkzeug
